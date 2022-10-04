@@ -5,7 +5,10 @@ Lean源编译的固件特别说明：
 无线密码：空
 
 
+
 集成LEAN源码仓库 https://github.com/yaya131/lede-for-XaioMi
+
+
 主线的更新：特色，NSS，最新内核，最新插件，日更！
 
 
