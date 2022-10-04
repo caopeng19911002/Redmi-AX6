@@ -6,11 +6,6 @@ Lean源编译的固件特别说明：
 
 新增5.10内核主线的更新：特色，NSS，最新内核，最新插件，日更！
 
-2022-10-8：新增5.10主线更新含AX6和AX3600项目地址：https://github.com/yaya131/LEDE-XiaoMi-Test
-
-
-
-
 
 全能插件版：
 #OpenAppFilter
