@@ -28,6 +28,10 @@ git clone https://github.com/jerrykuku/luci-theme-argon.git package/luci-theme-a
 
 git clone https://github.com/sirpdboy/luci-app-netdata.git package/luci-app-netdata
 
+#编译旧版openclash-0.44.29
+rm -rf feeds/kenzo/luci-app-openclash && git clone https://github.com/caopeng19911002/openclash-0.44.29.git feeds/kenzo/luci-app-openclash
+./scripts/feeds install -a
+
 #添加额外非必须软件包
 git clone https://github.com/rufengsuixing/luci-app-adguardhome.git package/luci-app-adguardhome
 git clone https://github.com/vernesong/OpenClash.git package/OpenClash
